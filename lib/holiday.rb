@@ -82,10 +82,6 @@ def all_holidays_with_bbq(holiday_hash)
       holiday_arr = []
       if supply.include?("BBQ")
         holiday_arr << holiday
-        
-        
-        
-        barbies << key_arr.detect {|i| i == season.key(supply)}
       end
     end
   end
