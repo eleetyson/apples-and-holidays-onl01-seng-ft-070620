@@ -84,6 +84,7 @@ def all_holidays_with_bbq(holiday_hash)
         holiday_arr << holiday
       end
     end
+    
   end
   
   barbies
